@@ -1,6 +1,6 @@
 {
   "name": "@fxq-cli-dev/utils",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "fxq-cli-dev utils",
   "author": "冯小青 <fengxiaoqing@tuhu.cn>",
   "homepage": "",
@@ -16,5 +16,5 @@
   "scripts": {
     "test": "echo \"run tests from utils\""
   },
-  "gitHead": "de3bca991c2ea8b6e33bd9f7ca5f84796b10c73a"
+  "gitHead": "7aef1f3888240152627ce38009252469cdf7e475"
 }
