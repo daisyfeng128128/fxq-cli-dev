@@ -1,6 +1,6 @@
 {
   "name": "fxq-cli-dev",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "fxq-cli dev",
   "main": "index.js",
   "scripts": {
@@ -8,8 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "lerna": "^4.0.0"
-  }
+  "license": "ISC"
 }
