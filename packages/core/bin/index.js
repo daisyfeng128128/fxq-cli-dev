@@ -1,3 +1,5 @@
-#! /usr/local/bin/env node
+#!/usr/bin/env node
 
-console.log("hello fxq-cli")
+const utils = require('@fxq-cli-dev/utils')
+utils();
+console.log("hello fxq-cli");
