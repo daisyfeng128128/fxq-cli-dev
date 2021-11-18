@@ -1,6 +1,6 @@
 {
   "name": "@fxq-cli-dev/core",
-  "version": "1.0.4",
+  "version": "1.0.1",
   "description": "fxq-cli-dev core",
   "author": "冯小青",
   "homepage": "",
@@ -20,7 +20,17 @@
     "test": "echo \"run tests from core\""
   },
   "dependencies": {
-    "@fxq-cli-dev/utils": "file:../utils"
+    "@fxq-cli-dev/log": "file:../../utils/log",
+    "@fxq-cli-dev/get-npm-info": "file:../../utils/get-npm-info",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "import-local": "^3.0.3",
+    "minimist": "^1.2.5",
+    "npmlog": "^5.0.1",
+    "path-exists": "^4.0.0",
+    "root-check": "^1.0.0",
+    "semver": "^7.3.5",
+    "user-home": "^3.0.0"
   },
   "publishConfig": {
     "access": "public"

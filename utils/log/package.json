@@ -1,0 +1,32 @@
+{
+  "name": "@fxq-cli-dev/log",
+  "version": "1.0.4",
+  "description": "> TODO: description",
+  "author": "冯小青 <fengxiaoqing@tuhu.cn>",
+  "homepage": "https://github.com/daisyfeng128128/fxq-cli-dev#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://fs-npm.tuhu.cn/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daisyfeng128128/fxq-cli-dev.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/daisyfeng128128/fxq-cli-dev/issues"
+  },
+  "dependencies": {
+    "npmlog": "^5.0.1"
+  }
+}
