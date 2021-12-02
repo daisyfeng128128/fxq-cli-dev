@@ -2,7 +2,7 @@
   "name": "@fxq-cli-dev/utils",
   "version": "1.0.0",
   "description": "fxq-cli-dev utils",
-  "author": "冯小青 <fengxiaoqing@tuhu.cn>",
+  "author": "",
   "homepage": "",
   "license": "ISC",
   "main": "lib/utils.js",
